@@ -1,6 +1,18 @@
-# multion-hackathon - DevLog
+# DevLog
 
-Records debugging steps from chatgpt on Notion  🚀
+Logs debugging steps from chatgpt on Notion  🚀
+
+## What does DevLog mean?
+
+I named this project DevLog because its a developer logging tool aka notes taking tool
+This project was began at a [hackathon](https://lu.ma/ai-agents-2.0?tk=36NHJB) that I joined from July 20 - July 21 2024 that I am still continuing development on.
+[Check out the slides](https://docs.google.com/presentation/d/14rrUprHQya8ZeVnUZJa3k7JcwZ33gGzgg-bjTa2g1oo/edit?usp=sharing)
+
+
+## Inspiration
+
+Throughout my years of being a generalist engineer, I have been writing down bugs I encountered in notion, I refer to it from time to time when I face the same issues. I call it [Chiayi's personal knowledge base](https://grape-wolf-71f.notion.site/bebb78024ff9423d9121d010f2b848c5?v=13a5b21ed1ca4bee83258bf0dcb22dae&pvs=4).
+This project will help me automate some of the process.
 
 ## How to run
 
