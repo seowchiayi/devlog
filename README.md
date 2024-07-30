@@ -22,6 +22,7 @@ This project will help me automate some of the process.
 3. Using MultiOn (an open source AI agent tool), the AI agent tool will open Notion and create a new page to jot down the title (error message) and list of steps
 
 p/s: I've only managed to make MultiOn navigate to the title part and jot down the title and not the body of the page for the list of steps
+
 This is the ideal end state of the AI agent:
 ![alt text](https://github.com/seowchiayi/multion-hackathon/blob/main/devlog-ideal-state.png)
 
