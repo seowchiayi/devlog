@@ -17,6 +17,12 @@ This project will help me automate some of the process.
 ## See DevLog in action
 [Watch this demo video](https://www.loom.com/share/3fa6e41b0dcd4be6b2cba05cdbe77880)
 
+1. Run note_taker.py and it will send error message to OpenAI API
+2. OpenAI API will list down steps on how to resolve the error message
+3. Using MultiOn (an open source AI agent tool), the AI agent tool will open Notion and create a new page to jot down the title (error message) and list of steps
+
+p/s: I've only managed to make MultiOn navigate to the title part and jot down the title and not the body of the page for the list of steps
+
 ## How to run
 
 Prerequisite: Ensure that you have `poetry` installed: [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation)
