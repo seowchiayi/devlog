@@ -14,6 +14,9 @@ This project was began at a [hackathon](https://lu.ma/ai-agents-2.0?tk=36NHJB) t
 Throughout my years of being a generalist engineer, I have been writing down bugs I encountered in notion, I refer to it from time to time when I face the same issues. I call it [Chiayi's personal knowledge base](https://grape-wolf-71f.notion.site/bebb78024ff9423d9121d010f2b848c5?v=13a5b21ed1ca4bee83258bf0dcb22dae&pvs=4).
 This project will help me automate some of the process.
 
+## See DevLog in action
+[Watch this demo video](https://www.loom.com/share/3fa6e41b0dcd4be6b2cba05cdbe77880)
+
 ## How to run
 
 Prerequisite: Ensure that you have `poetry` installed: [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation)
